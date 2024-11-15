@@ -1,1 +1,1 @@
-8 Days Sql Challenge
+8 Week Sql Challenge
