@@ -1,1 +1,1 @@
-Tokyo olympic data engineering end to end project
+8 Days Sql Challenge
